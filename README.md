@@ -19,6 +19,7 @@ The dashboard should answer questions such as:
 • Which payment methods and shipping modes are preferred by customers?
 
 • How can we forecast sales for the upcoming period?
+
 KPIs (Key Performance Indicators)
 
 • Total Sales: $1.6M
